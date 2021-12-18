@@ -16,3 +16,15 @@ users can check the status of their post without dedicating
 much time and effort. It provides an opinion on the 
 comments made on a post and also gives the option to view 
 a graph.
+
+. Conclusion
+• We used the tweepy and fetch the data from the twitter
+explored the data in different ways.
+• We prepared the text data of tweets by removing the 
+unnecessary things.
+• We trained the model based on machine learning 
+model and on TensorFlow with all settings 
+• We evaluated the model with different evaluation 
+measures
+• We compare the mobile network using the Bar graph 
+and pie char
